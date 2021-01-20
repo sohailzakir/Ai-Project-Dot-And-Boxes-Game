@@ -30,7 +30,7 @@ class dotsboxes(object):
         self.row_count = rows
         self.column_count = columns
         
-        #scorekeeping
+      
         self.a_score = 0
         self.b_score = 0
         
